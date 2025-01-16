@@ -1,6 +1,6 @@
 .holder {
   display: flex;
-  justify-content:normal;
+  justify-content:center;
   flex-wrap: nowrap;
 }
 
